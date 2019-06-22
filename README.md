@@ -5,6 +5,7 @@ information including the branch name and a red + if the branch has un-pushed ch
 ![Example](https://user-images.githubusercontent.com/19490643/59969576-8554de80-951e-11e9-980a-ce87bd3f55ea.png)
 
 
+---
 MIT License
 
 Copyright (c) 2019 Jake Huneau
